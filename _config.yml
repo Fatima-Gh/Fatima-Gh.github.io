@@ -13,7 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "Fatima"
 description:	       ""
 author:              "Fatima"
-
+theme: no-style-please
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
